@@ -1,5 +1,3 @@
-# The official BPLC website
+# Abandoned
 
-The official Github Repo for the Baybay Pet Lovers Clinic website.
-
-Visit at https://bplc.vercel.app/
+Repo has been moved to https://github.com/theawesomestnathan/bplc-new
